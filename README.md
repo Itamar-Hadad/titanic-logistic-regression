@@ -44,7 +44,6 @@ Perform binary classification using the Kaggle Titanic dataset and a logistic re
 ## 📁 Files
 - `Titanic.ipynb` – Full notebook with analysis and model
 - `submission.csv` – Kaggle submission file
-- `report.html` – Optional HTML version of the notebook
 
 ## 🧠 What I Learned
 - The importance of feature engineering for improving model performance
