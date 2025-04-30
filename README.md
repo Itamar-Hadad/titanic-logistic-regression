@@ -53,7 +53,7 @@ Perform binary classification using the Kaggle Titanic dataset and a logistic re
 
 ## 🔁 Follow-up Work
 This project served as the foundation for a more advanced version that includes multiple classification models and feature selection techniques:  
-➡️ [Titanic Classification Ensemble](////)
+➡️ [Titanic Classification Ensemble]((https://github.com/Itamar-Hadad/titanic-classification-ensemble))
 
 ---
 
